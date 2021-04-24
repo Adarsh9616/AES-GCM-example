@@ -23,3 +23,5 @@ You should do it in a virtual enviorment if you already have pycrypto as it is a
 After you get the dependencies installed and download the file  
 From the terminal run - "python aes_gcm.py"  
 It will guide you through the whole encryption and decryption process  
+
+
